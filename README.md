@@ -1,1 +1,1 @@
-This is an simple E-commerce website,that is build for online shoping.we can use in any laptop. its working project, where it includes various functionalities like search the product,add to cart,login and register etc.
+This is an simple E-commerce website,that is build for online shoping.We can use in any laptop. Its working project, where it includes various functionalities like search the product,add to cart,login and register etc.
